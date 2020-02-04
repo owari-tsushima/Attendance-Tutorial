@@ -7,4 +7,4 @@
 * AWS Cloud9
 * Ruby
 * Rails
-* Git
+* Git(HTTPS から SSH 通信へ変更)
